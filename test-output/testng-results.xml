@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-09T12:54:38 IST" name="Default suite" finished-at="2023-02-09T12:56:17 IST" duration-ms="99871">
+    <groups>
+    </groups>
+    <test started-at="2023-02-09T12:54:38 IST" name="Default test" finished-at="2023-02-09T12:56:17 IST" duration-ms="99871">
+      <class name="org.Petdiseasealerts.test.PetParasiteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:54:38 IST" name="setUp" finished-at="2023-02-09T12:54:55 IST" duration-ms="17856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="viewForecastDataTest(java.lang.String)[pri:2, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:54:55 IST" name="viewForecastDataTest" data-provider="getStates" finished-at="2023-02-09T12:55:02 IST" duration-ms="6401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewForecastDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:02 IST" name="tearDown" finished-at="2023-02-09T12:55:02 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:02 IST" name="setUp" finished-at="2023-02-09T12:55:27 IST" duration-ms="24847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="viewForecastDataTest(java.lang.String)[pri:2, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:27 IST" name="viewForecastDataTest" data-provider="getStates" finished-at="2023-02-09T12:55:30 IST" duration-ms="2825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Florida]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewForecastDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:30 IST" name="tearDown" finished-at="2023-02-09T12:55:31 IST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:31 IST" name="setUp" finished-at="2023-02-09T12:55:49 IST" duration-ms="18535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="viewForecastDataTest(java.lang.String)[pri:2, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:49 IST" name="viewForecastDataTest" data-provider="getStates" finished-at="2023-02-09T12:55:55 IST" duration-ms="5599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewForecastDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:55 IST" name="tearDown" finished-at="2023-02-09T12:55:55 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:55:55 IST" name="setUp" finished-at="2023-02-09T12:56:11 IST" duration-ms="15617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="viewForecastDataTest(java.lang.String)[pri:2, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:56:11 IST" name="viewForecastDataTest" data-provider="getStates" finished-at="2023-02-09T12:56:17 IST" duration-ms="6149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maryland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewForecastDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Petdiseasealerts.test.PetParasiteTest@2053d869]" started-at="2023-02-09T12:56:17 IST" name="tearDown" finished-at="2023-02-09T12:56:17 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.Petdiseasealerts.test.PetParasiteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
